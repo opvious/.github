@@ -1,1 +1,3 @@
-[Opvious](https://www.opvious.io) is a _batteries-included optimization platform_ which __empowers engineers and data scientists to solve mathematical optimization problems__. It is available both as a managed cloud service (free on small datasets) and self-hosted (free for non-commercial projects). See our [pricing page](https://www.opvious.io/pricing) for more information or [get started for free here!](https://www.opvious.io/notebooks/retro/notebooks/?path=guides/welcome.ipynb)
+[Opvious](https://www.opvious.io) is a _batteries-included optimization platform_ which __empowers data scientists to solve optimization problems effortlessly__. It is available both as a managed cloud service (free on small datasets) and self-hosted (free for non-commercial projects). See our [plans](https://www.opvious.io/plans) for more information.
+
+We'd love to hear from you, please let us know what you think in our [discussions page](https://github.com/orgs/opvious/discussions).
